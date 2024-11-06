@@ -64,7 +64,7 @@ A conversational AI platform built with FastAPI that processes messages and docu
    OPENAI_CHAT_MODEL=gpt-4o
    OPENAI_EMBEDDING_MODEL=text-embedding-3-small
    GROQ_CHAT_MODEL=llama-3.1-70b-versatile
-   CHROMA_DB_PATH=./chromadb
+   CHROMA_DB_PATH=./chroma_db
    SQLALCHEMY_DATABASE_URL=sqlite:///./sql_app.db
    PDF_URL=your_pdf_url
    ```
