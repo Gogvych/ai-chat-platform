@@ -12,7 +12,7 @@ __pycache__/
 
 # Database
 *.db
-chromadb/
+chroma_db/
 sql_app.db
 
 # IDE
