@@ -1,6 +1,0 @@
-setup.py
-weatherapipython.egg-info/PKG-INFO
-weatherapipython.egg-info/SOURCES.txt
-weatherapipython.egg-info/dependency_links.txt
-weatherapipython.egg-info/requires.txt
-weatherapipython.egg-info/top_level.txt

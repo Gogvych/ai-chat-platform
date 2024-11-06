@@ -1,6 +1,0 @@
-
-@app.post("/")
-async def receive_raw_message(request: Request):
-    text = await request.body()
-    text = text.decode('utf-8')
-    return {"received": text}, text

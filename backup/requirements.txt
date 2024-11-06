@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-sqlalchemy
-groq
-chromadb
-openai
-langchain
-PyPDF2
